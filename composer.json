@@ -3,12 +3,12 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/liaosp/laraveAdminRowAction",
+    "homepage": "https://github.com/liaoshengping/laravel-admin-ext-rowaction",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "liaosp",
+            "email": "1194008361@qq.com"
         }
     ],
     "require": {
