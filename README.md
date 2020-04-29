@@ -1,5 +1,11 @@
 laravel-admin extension
 ======
+  ![image](img.jpg)
+
+```
+composer require liaosp/laravel-admin-ext-rowaction
+```
+
 演示：https://nimb.ws/BowpvP
 
 在我使用这个这个扩展得时候，没有看到modal 弹窗使用 自定义的html；
