@@ -1,5 +1,5 @@
 {
-    "name": "liaosp/laraveAdminRowAction",
+    "name": "liaosp/laravel-admin-ext-rowaction",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
