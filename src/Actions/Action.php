@@ -36,7 +36,7 @@ use Liaosp\RowAction\Actions\Interactor\Form;
  * @method Field\Hidden         hidden($column, $label = '')
  * @method Form                    diy($html)
  */
-abstract class Action implements Renderable
+abstract class Action extends \Encore\Admin\Actions\RowAction implements Renderable
 {
     use Authorizable;
 
