@@ -21,10 +21,10 @@
     </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 <style>
-    .col-sm-2{
+    #{{$modal_id}} .col-sm-2{
         display: none;
     }
-    .col-sm-8{
+    #{{$modal_id}} .col-sm-8{
         width: 100%;
     }
 </style>
